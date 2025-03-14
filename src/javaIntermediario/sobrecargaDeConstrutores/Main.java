@@ -5,9 +5,6 @@ public class Main {
 
         // Obj Uzumaki
         Uzumaki naruto = new Uzumaki();
-        naruto.nome = "Naruto Uzumaki";
-        naruto.aldeia = "Aldeia da Folha";
-        naruto.idade = 16;
 
         // Obj Uchiha
         Uchiha sasuke = new Uchiha("Sasuke Uchiha", "Aldeia da Folha", 18, 20, NivelNinja.GENIN);
