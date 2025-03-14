@@ -11,6 +11,7 @@ public class Ninja {
     int numeroDeMissoesConcluidas;
     NivelNinja rank;
 
+    //Metodo existente: Primeiro metodo
     public Ninja(String nome, String aldeia, int idade) {
         this.nome = nome;
         this.aldeia = aldeia;
